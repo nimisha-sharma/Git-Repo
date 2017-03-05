@@ -1,2 +1,0 @@
-# WebApp
-Sample .NET project.
